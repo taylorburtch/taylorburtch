@@ -24,7 +24,7 @@ I am a fourth-year PhD candidate in the Higher Education Administration & Policy
 **Working Papers**
 
 Skinner, B.T., Levy, H., and Burtch, T. (2021). Digital redlining: the relevance 
-of 20th century housing policy to 21st century broadband access and education. (EdWorkingPaper: 21-471). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/q9av-9c93 (Submitted to American Educational Research Journal). 
+of 20th century housing policy to 21st century broadband access and education. (EdWorkingPaper: 21-471). Retrieved from Annenberg Institute at Brown University: https://doi.org/10.26300/q9av-9c93  
 
 **General**
 - Pronouns: she/her/hers
